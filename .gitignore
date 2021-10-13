@@ -4,3 +4,5 @@
 # CocoaPods
 Pods/
 gen/
+Package.resolved
+.swiftpm/
